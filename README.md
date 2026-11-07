@@ -1,4 +1,4 @@
-# Olá, eu sou o Claudivan 👋
+# Olá, eu sou o Claudivan 
 
 **Desenvolvimento back-end e full stack · Java · Spring Boot · PostgreSQL**
 
